@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/Karol-2/Karol-2/blob/main/src/capybara-banner.jpg" width='40'>
+<img src="https://github.com/Karol-2/Karol-2/blob/main/src/capybara-banner.jpg">
 
 Hello there 👋, I'm Karol</h1>
 <h3 align="center">A passionate Computer Science student at University of Gdańsk.</h3>
