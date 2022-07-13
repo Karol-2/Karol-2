@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://github.com/Karol-2/Karol-2/blob/main/src/capybara-banner.jpg">
-
+<br>
 Hello there 👋, I'm Karol</h1>
 <h3 align="center">A passionate Computer Science student at University of Gdańsk.</h3>
 
@@ -14,7 +14,6 @@ Hello there 👋, I'm Karol</h1>
 
 - ⚡ Fun fact:  **Capybaras are often referred to as “nature’s ottoman”, these friendly critters don’t ever seem to knock back a ride sharing request from another animal. A whole host of bird species, monkeys, rabbits, and even other Capybaras have been spotted seated, perched or laying on the back of a much-obliging Capybara.**
 
-<br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
