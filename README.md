@@ -6,9 +6,9 @@ Hello there 👋, I'm Karol</h1>
 
 - 🔭 I’m currently working on [Unity Tutorial](https://github.com/Karol-2/UnityTutorial)
 
-- 🎮 Soon I'll start developing my own game [Game Title Soon](https://github.com/Karol-2)
+- 🎮 I'm currently developing my own game [Jurassic Run](https://github.com/Karol-2/Jurrassic_Run)
 
-- 🌱 I’m currently learning **Unity, C#, Blender**
+- 🌱 Learning **Unity, C#, Blender, Pixelart**
 
 - 💬 Ask me about **my awesome game ideas and my stunning experiences at uni!**
 
