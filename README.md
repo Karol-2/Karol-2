@@ -4,13 +4,13 @@
 Hello there 👋, I'm Karol</h1>
 <h3 align="center">A passionate Computer Science student at University of Gdańsk.</h3>
 
-- 🔭 I’m currently working on [Unity Tutorial](https://github.com/Karol-2/UnityTutorial)
-
 - 🎮 I'm currently developing my own game [Jurassic Run](https://github.com/Karol-2/Jurrassic_Run)
+
+- 🔭 My side projects:  [Funko Search](https://github.com/Karol-2/Funko-Search), [Finance Manager](https://github.com/Karol-2/Personal-Finance-Manager)
 
 - 🌱 Learning **Unity, C#, Blender, Pixelart**
 
-- 💬 Ask me about **my awesome game ideas and my stunning experiences at uni!**
+- 💬  *Text me!*
 
 - ⚡ Fun fact:  **Capybaras are often referred to as “nature’s ottoman”, these friendly critters don’t ever seem to knock back a ride sharing request from another animal. A whole host of bird species, monkeys, rabbits, and even other Capybaras have been spotted seated, perched or laying on the back of a much-obliging Capybara.**
 
