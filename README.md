@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/Karol-2/Karol-2/blob/main/src/capybara-banner.jpg">
+<img src="https://github.com/Karol-2/Karol-2/blob/main/src/github-header-image.png">
 <br>
 Hello there 👋, I'm Karol</h1>
 
