@@ -1,10 +1,11 @@
 <h1 align="center">
 <img src="https://github.com/Karol-2/Karol-2/blob/main/src/github-header-image.png">
 <br>
-Hello there 👋, I'm Karol</h1>
+</h1>
 
  🎮 I'm a beginner programmer who is eager to expand my knowledge and skills in computer science. Currently, I'm studying **Practical Computer Science** at the University of Gdańsk, where I learn to program in various languages such as **Java, JavaScript, C++, and Python.**
  
+
  🚀 My main interests lie in **game development and web application programming**. I believe that programming is not only a skill but also a way of solving problems and creating new, creative solutions.
 
 💻 So far, the projects I've worked on have allowed me to learn technologies such as: 
@@ -38,6 +39,10 @@ Hello there 👋, I'm Karol</h1>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/karol-krawczykiewicz-978232234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karol" height="30" width="40" /></a>
+<a href="https://karol-2.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="" />
+</a>
+<a href="https://www.linkedin.com/in/karol-krawczykiewicz-978232234/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/> </a>
 </p>
 
