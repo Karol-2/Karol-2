@@ -30,7 +30,7 @@
 🌱 I'm always looking to learn and grow as a programmer. I'm open to feedback and suggestions, and I believe that every opportunity to learn from others is valuable.
 <br><br>
 - 🔭 My big projects: [Cocktail Database](https://github.com/Karol-2/Cocktail-Database), [Jurassic Run Game](https://github.com/Karol-2/Jurrassic_Run),  
-- 💾  My side projects: [Funko Search](https://github.com/Karol-2/Funko-Search), [Finance Manager](https://github.com/Karol-2/Personal-Finance-Manager)
+- 💾  My side projects: [Yeelight Bulb Manager](https://github.com/Karol-2/Yeelight_Bulb_Manager), [Finance Manager](https://github.com/Karol-2/Personal-Finance-Manager)
 
 <br>
 👯‍♂️ If you're interested in collaborating on a project or just want to chat about programming, feel free to reach out to me. I'm excited to meet other developers and work together to create something great!
