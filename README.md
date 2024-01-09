@@ -14,8 +14,8 @@
 
 
 
-🔭 **My big projects: [Cocktail Database](https://github.com/Karol-2/Cocktail-Database), [Mercury Project]([https://github.com/Karol-2/Jurrassic_Run](https://github.com/Karol-2/Mercury-Project)),  
-💾  My side projects: [SpotiStats](https://github.com/Karol-2/SpotiStats), [Jurrassic_Run Game]([https://github.com/Karol-2/Yeelight_Bulb_Manager](https://github.com/Karol-2/Jurrassic_Run))**
+🔭 **My big projects: [Cocktail Database](https://github.com/Karol-2/Cocktail-Database), [Mercury Project](https://github.com/Karol-2/Mercury-Project),  
+💾  My side projects: [SpotiStats](https://github.com/Karol-2/SpotiStats), [Jurrassic_Run Game](https://github.com/Karol-2/Jurrassic_Run)**
 <p>
   📂 In my repository, you'll find my projects as well as solutions to problems that I've tackled while learning. Feel free to check out my work and collaborate with me!
 
