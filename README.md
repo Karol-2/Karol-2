@@ -14,11 +14,12 @@
 
 
 
-🔭 **My big projects: [Cocktail Database](https://github.com/Karol-2/Cocktail-Database), [Mercury Project](https://github.com/Karol-2/Mercury-Project),  
-💾  My side projects: [SpotiStats](https://github.com/Karol-2/SpotiStats), [Jurrassic_Run Game](https://github.com/Karol-2/Jurrassic_Run)**
+🔭 **My main projects: [Cocktail Database](https://github.com/Karol-2/Cocktail-Database), [Mercury Project](https://github.com/Karol-2/Mercury-Project), [Record Shop](https://github.com/Karol-2/Record-Shop)  
+💾  My side projects: [Cinema app](https://github.com/Karol-2/Spring-cinema), [SpotiStats](https://github.com/Karol-2/SpotiStats), [Jurrassic_Run Game](https://github.com/Karol-2/Jurrassic_Run)**
+
 <p>
   📂 In my repository, you'll find my projects as well as solutions to problems that I've tackled while learning. Feel free to check out my work and collaborate with me!
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://karol-2.github.io/" target="_blank">
