@@ -4,7 +4,7 @@
 <br>
 </h1>
 
- 🎮 I'm a junior programmer who is eager to expand my knowledge and skills in computer science. I am a graduate of **Practical Computer Science** at the University of Gdańsk, where I learned to program in various languages such as **Java, JavaScript and Python.** I have over a year of a professional experience as a Angular Developer.
+ 🎮 I'm a junior programmer who is eager to expand my knowledge and skills in computer science. I am a graduate of **Practical Computer Science** at the University of Gdańsk, where I learned to program in various languages such as **Java, JavaScript and Python.** I have over a year of a professional experience as an Junior Angular Developer.
  
 
  🚀 My main interests lie in **game development** and **web application programming**. Currently, I'm working on my Java and Angular skills.
