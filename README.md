@@ -1,10 +1,10 @@
 
 <h1 align="center">
-<img src="https://github.com/Karol-2/Karol-2/blob/main/src/github-header-image.png">
+<img src="https://github.com/Karol-2/Karol-2/blob/main/src/github-header-banner.png">
 <br>
 </h1>
 
- 🎮 I'm a beginner programmer who is eager to expand my knowledge and skills in computer science. I am a recent graduate of **Practical Computer Science** at the University of Gdańsk, where I learned to program in various languages such as **Java, JavaScript and Python.**
+ 🎮 I'm a junior programmer who is eager to expand my knowledge and skills in computer science. I am a graduate of **Practical Computer Science** at the University of Gdańsk, where I learned to program in various languages such as **Java, JavaScript and Python.** I have over a year of a proffesional experience.
  
 
  🚀 My main interests lie in **game development** and **web application programming**. Currently, I'm working on my Java and Angular skills.
